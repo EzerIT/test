@@ -1,2 +1,2 @@
-alfa
-beta
+hedwig gamma
+hedwig gamma2
